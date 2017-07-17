@@ -1,0 +1,41 @@
+
+/*
+*
+* RELATED VIDEOS FOR JWPLAYER - STYLE
+*
+*/
+
+pre {
+	background: #f7f7f9;
+	display: inline-block;
+	padding: 20px;
+	color: #333;
+	border: 1px solid #e1e1e8;
+	text-shadow: 0 1px white;
+	max-width: 95%;
+}
+
+form {
+	margin:20px 0 50px 0;
+}
+
+.clear {
+	clear: both;
+}
+
+#thumbnail {
+	margin-top: -1px;
+}
+
+#field {
+	margin-left:10px;
+	width: 200px;
+}
+
+.button-primary {
+	margin:0 0 0 10px !important;
+}
+
+img.rvjwp-image {
+	border: 5px solid #fff;
+}

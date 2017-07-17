@@ -1,0 +1,85 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Releted Videos for JW Player\n"
+"POT-Creation-Date: 2017-05-05 18:32+0200\n"
+"PO-Revision-Date: 2015-04-22 14:52+0100\n"
+"Last-Translator: \n"
+"Language-Team: ilGhera <andrea@ilghera.com>\n"
+"Language: ita\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/rvjwp-admin-settings.php:45
+msgid "Related Videos for JW Player"
+msgstr ""
+
+#: includes/rvjwp-admin-settings.php:47
+msgid ""
+"If you're using <strong>JW Player</strong> on your site, you probably know "
+"<strong><a href=\"http://support.JW Player.com/customer/portal/"
+"articles/1409745-display-related-videos\" target=\"_blank\">Related Videos</"
+"a></strong>, a free plugin that allows you to show more contents to the "
+"users in a beautifull and simple layout."
+msgstr ""
+
+#: includes/rvjwp-admin-settings.php:48
+msgid ""
+"<strong>Related Videos for JW Player</strong> will creates the correct xml "
+"for each category, so you'll be able to show related contents dynamically."
+msgstr ""
+
+#: includes/rvjwp-admin-settings.php:89
+msgid "Video image"
+msgstr ""
+
+#: includes/rvjwp-admin-settings.php:96
+msgid "Featured image"
+msgstr ""
+
+#: includes/rvjwp-admin-settings.php:100
+msgid "Custom field"
+msgstr ""
+
+#: includes/rvjwp-admin-settings.php:107
+msgid "Custom field name"
+msgstr ""
+
+#: includes/rvjwp-admin-settings.php:109
+msgid "Select how to get the video thumbnail from your posts."
+msgstr ""
+
+#: includes/rvjwp-admin-settings.php:116
+msgid "Category"
+msgstr ""
+
+#: includes/rvjwp-admin-settings.php:124
+msgid "Select the right category for changing the code down here."
+msgstr ""
+
+#: includes/rvjwp-admin-settings.php:129
+msgid "Heading"
+msgstr ""
+
+#: includes/rvjwp-admin-settings.php:132
+msgid "Chose the heading for your related contents."
+msgstr ""
+
+#: includes/rvjwp-admin-settings.php:137
+msgid "Code"
+msgstr ""
+
+#: includes/rvjwp-admin-settings.php:150
+msgid "Add this snippet to your JW Player code for related videos of "
+msgstr ""
+
+#: includes/rvjwp-admin-settings.php:156
+msgid "Save chages"
+msgstr ""
